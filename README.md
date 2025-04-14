@@ -120,6 +120,4 @@ Yes! The link directs you to the official Raycast website. No third-party or sha
 
  
 
- 
 
-# .github
